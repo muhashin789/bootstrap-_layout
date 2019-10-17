@@ -1,0 +1,15 @@
+.box{
+	min-height: 50px;
+	background-color: red;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-size: 30px;
+}
+
+.black{
+	background-color: yellow;
+}
+
+.yellow{
+	background-color: aqua;
+}
